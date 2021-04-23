@@ -1,6 +1,6 @@
 
 Rohit Gupta
-Intrested in Full Stack Deep Learning position.
+Intrested in Deep Learning/Machine Learning/Computer Vision/Full Stack related  position.
 
 
 Developed my own product related to design and selection of vehicle/machine suspension system, a Full Stack web application in Django, everything in backend and frontend and in between.
