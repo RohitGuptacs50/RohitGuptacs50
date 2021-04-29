@@ -13,4 +13,4 @@ In the repositories, there are projects related to Deep Learning, Data Structure
 
 
 
-Date: 18/04/2021, projects to upload this week: YOLO, More of AutoEncoders, Style Transfer, Reinforcement Learning, OpenCV, REST Framework, Tiny ML.
+
